@@ -22,6 +22,7 @@ import android.view.MenuItem;
 //coba ketiga branch2
 
 //master1
+//master2
 public class MainActivity extends AppCompatActivity {
 
     @Override
