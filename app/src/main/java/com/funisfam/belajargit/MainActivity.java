@@ -10,16 +10,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-// coba pertama
-// coba kedua
-//coba ketiga
-
-// coba keempat
-
-
-//coba pertama branch
-//coba kedua branch
-//coba ketiga branch2
 
 //master1
 //master2
