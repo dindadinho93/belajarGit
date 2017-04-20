@@ -10,20 +10,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-// coba pertama
-// coba kedua
-//coba ketiga
-
-// coba keempat
-
-
-//coba pertama branch
-//coba kedua branch
-//coba ketiga branch2
-//coba keempat
-
 //master1
 //master2
+// mister celup
 public class MainActivity extends AppCompatActivity {
 
     @Override
